@@ -1,0 +1,1 @@
+# Notes for self: the content is interesting, but there are some hurldes getting it to work on a Mac M1 computer. Something to do with node-gyp seems to be the issue. Return to the subject later via other resources.
