@@ -1,3 +1,5 @@
+## Note to self: consider using some kind of docker image to avoid time spent on set up.
+
 # Source for O'Reilly's Learning TensorFlow.js Book
 
 Learning TensorFlow.js - Powerful Machine Learning in JavaScript by Gant Laborde
